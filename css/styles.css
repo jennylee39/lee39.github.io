@@ -465,7 +465,7 @@ body.active{
         top:50%;
         transform:translateY(-50%);
         margin-left:350px;
-        padding:40px;
+        padding:72px;
     }
     .project-info h3{
         font-size:2em;
